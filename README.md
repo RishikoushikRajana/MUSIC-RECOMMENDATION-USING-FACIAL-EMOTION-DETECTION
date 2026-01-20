@@ -3,7 +3,7 @@ Recommending music based on your facial expressions using FER 2013 dataset and S
 
 # Demo:
 ![Demo](https://dizzy-plum-cfwuggvjap.edgeone.app/Screenshot%202026-01-20%20161853.png)
-![Demo](https://electrical-amaranth-a3emx82fzi.edgeone.app/Screenshot%202026-01-20%20161926.png)
+![Demo](https://innocent-tomato-n6bfyf5gxv.edgeone.app/Screenshot%202026-01-20%20161926.png)
 
 
 (Forgive the image quality and my expressions 😆)
