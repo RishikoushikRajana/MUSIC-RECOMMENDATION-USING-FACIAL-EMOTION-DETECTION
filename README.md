@@ -2,7 +2,7 @@
 Recommending music based on your facial expressions using FER 2013 dataset and Sporify api
 
 # Demo:
-![Demo](https://dizzy-plum-cfwuggvjap.edgeone.app/Screenshot%202026-01-20%20161853.png)
+![Demo](https://img.sanishtech.com/u/179b41602bbb9be155cc8789c5c326bf.png)
 ![Demo1](https://img.sanishtech.com/u/7e0d4f59b3cad9616ee8ea68d0db5252.png)
 
 
