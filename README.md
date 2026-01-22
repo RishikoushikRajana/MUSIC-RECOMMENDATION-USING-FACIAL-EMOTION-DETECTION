@@ -3,12 +3,12 @@ Recommending music based on your facial expressions using FER 2013 dataset and S
 
 # Demo:
 
-# Demo link [click](https://drive.google.com/file/d/104thvAbagFs3wo3FX_gz98Nnqi55KLWd/view)
-# Demo link [click](https://drive.google.com/file/d/1Wm9DuUftfdZgu-2OQvleJYYWHR4v3GEI/view)
+# Demo 1 [click](https://drive.google.com/file/d/104thvAbagFs3wo3FX_gz98Nnqi55KLWd/view)
+# Demo 2 [click](https://drive.google.com/file/d/1Wm9DuUftfdZgu-2OQvleJYYWHR4v3GEI/view)
 
 
 
-(Forgive the image quality and my expressions 😆)
+## (Forgive the image quality and my expressions 😆)
 
 # Project Description:
 The emotion recognition model is trained on FER 2013 dataset. It can detect 7 emotions. The project works by getting live video feed from web cam, pass it through the model to get a prediction of emotion. Then according to the emotion predicted, the app will fetch playlist of songs from Spotify through spotipy wrapper and recommend the songs by displaying them on the screen.
