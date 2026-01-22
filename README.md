@@ -1,8 +1,6 @@
 # MUSIC RECOMMENDATION USING FACIAL EMOTION DETECTION
 Recommending music based on your facial expressions using FER 2013 dataset and Sporify api
 
-# Demo:
-
 # Demo 1 [click](https://drive.google.com/file/d/104thvAbagFs3wo3FX_gz98Nnqi55KLWd/view)
 # Demo 2 [click](https://drive.google.com/file/d/1Wm9DuUftfdZgu-2OQvleJYYWHR4v3GEI/view)
 
